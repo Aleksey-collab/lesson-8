@@ -10,7 +10,7 @@ for (int i = 0; i < myArray.GetLength(0); i++)
 {
     for (int j = 0; j < myArray.GetLength(1); j++)
     {
-        Console.Write(myArray[i,j] + ", ");
+        //Console.Write(myArray[i,j] + ", ");
     
     }
     
@@ -24,7 +24,7 @@ for (int i = 0; i < myArray.GetLength(0); i++)
 
             myArray[i, k + 1] = temp;
         }
-        System.Console.WriteLine(myArray[i, k]);
+        
     }
     Console.WriteLine();
 
