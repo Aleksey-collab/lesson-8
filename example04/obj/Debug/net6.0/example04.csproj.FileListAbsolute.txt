@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\домашне задание к уроку 8\example04\bin\Debug\net6.0\example04.exe
+C:\Users\Алексей\Desktop\домашне задание к уроку 8\example04\bin\Debug\net6.0\example04.deps.json
+C:\Users\Алексей\Desktop\домашне задание к уроку 8\example04\bin\Debug\net6.0\example04.runtimeconfig.json
+C:\Users\Алексей\Desktop\домашне задание к уроку 8\example04\bin\Debug\net6.0\example04.dll
+C:\Users\Алексей\Desktop\домашне задание к уроку 8\example04\bin\Debug\net6.0\example04.pdb
+C:\Users\Алексей\Desktop\домашне задание к уроку 8\example04\obj\Debug\net6.0\example04.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\домашне задание к уроку 8\example04\obj\Debug\net6.0\example04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\домашне задание к уроку 8\example04\obj\Debug\net6.0\example04.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\домашне задание к уроку 8\example04\obj\Debug\net6.0\example04.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\домашне задание к уроку 8\example04\obj\Debug\net6.0\example04.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\домашне задание к уроку 8\example04\obj\Debug\net6.0\example04.dll
+C:\Users\Алексей\Desktop\домашне задание к уроку 8\example04\obj\Debug\net6.0\refint\example04.dll
+C:\Users\Алексей\Desktop\домашне задание к уроку 8\example04\obj\Debug\net6.0\example04.pdb
+C:\Users\Алексей\Desktop\домашне задание к уроку 8\example04\obj\Debug\net6.0\example04.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\домашне задание к уроку 8\example04\obj\Debug\net6.0\ref\example04.dll
