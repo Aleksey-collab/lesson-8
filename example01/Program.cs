@@ -16,7 +16,31 @@ for (int i = 0; i < myArray.GetLength(0); i++)
     Console.Write("]");
     Console.WriteLine();
 }
+// Если с случайными числами.
 
+/*Console.WriteLine("введите количество строк");
+int rows = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("введите количество столбцов");
+int columns = Convert.ToInt32(Console.ReadLine());
+int[,] myArray = new int[rows, columns];
+FillArrayRandomNumbers(myArray);
+Console.WriteLine();
+Console.WriteLine("Массив до изменения");
+PrintArray(myArray);
+
+
+
+void FillArrayRandomNumbers(int[,] myarray)
+{
+    for (int i = 0; i < myarray.GetLength(0); i++)
+    {
+        for (int j = 0; j < myarray.GetLength(1); j++)
+        {
+            myarray[i, j] = new Random().Next(0, 10);
+        }
+    }
+}
+*/
 void SorTing(int[,] myArray)
 {
     for (int i = 0; i < myArray.GetLength(0); i++)
